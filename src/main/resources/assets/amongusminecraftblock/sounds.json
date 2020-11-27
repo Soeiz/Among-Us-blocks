@@ -1,0 +1,29 @@
+{
+  "electric": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "amongusminecraftblock:electrique",
+        "stream": true
+      }
+    ]
+  },
+  "ventopen": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "amongusminecraftblock:vent_open",
+        "stream": true
+      }
+    ]
+  },
+  "ventclose": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "amongusminecraftblock:ventclose",
+        "stream": true
+      }
+    ]
+  }
+}

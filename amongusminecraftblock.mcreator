@@ -1,0 +1,1050 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Blockpolusbas",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Blockpolushaut",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Groundpolus",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Wallpolus2",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockpolusBas1",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AMONGUSminecraftBlocksTEST",
+      "type": "tab",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Vent",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Carpetpolus",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Carpetpolus1",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Wallpolusadmin",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Wallpolusadminhaut",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Wallpolusadminmillieu",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Wallpolusbas3",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Wallpolusmillieu3",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Wallpolusoutside1",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Wallpolusoutside2",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Wallpolusoutside3",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Wallpolusoutsidegreen1",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Wallpolusoutsidegreen2",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Wallpolusoutsidegreen3",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Carrelagepoluslabobleue",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Carrelagepoluslaboblanc",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Murbriquelabo",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Solquatrecarraux",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Solpolus4",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Blocpolusdehorsmilieu",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Blockspolus",
+      "type": "tab",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Wallpolusblue1",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusblue_1"
+    },
+    {
+      "name": "Wallpolusblue2",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusblue_2"
+    },
+    {
+      "name": "Wallpolusbleu3",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusbleu_3"
+    },
+    {
+      "name": "Blocksskeld",
+      "type": "tab",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blocksskeld"
+    },
+    {
+      "name": "Blocskeld1",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blocskeld_1"
+    },
+    {
+      "name": "Blockskeld2",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blockskeld_2"
+    },
+    {
+      "name": "TEST",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test"
+    },
+    {
+      "name": "TESTRedstoneOn",
+      "type": "procedure",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test_redstone_on",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Amongusmusic",
+      "type": "tab",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amongusmusic"
+    },
+    {
+      "name": "Wallpolusred",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusred"
+    },
+    {
+      "name": "Wallpolusred2",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusred_2"
+    },
+    {
+      "name": "Wallpolusred3",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusred_3"
+    },
+    {
+      "name": "Wallpolusgreen1",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusgreen_1"
+    },
+    {
+      "name": "Wallpolusgreen2",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusgreen_2"
+    },
+    {
+      "name": "Wallpolusgreen3",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusgreen_3"
+    },
+    {
+      "name": "Wallpolusblue",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusblue"
+    },
+    {
+      "name": "Wallpolusblue22",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusblue_22"
+    },
+    {
+      "name": "Wallpolusblue33",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusblue_33"
+    },
+    {
+      "name": "Blockpolus",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blockpolus"
+    },
+    {
+      "name": "Blockpolusorange",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blockpolusorange"
+    },
+    {
+      "name": "Blockpolusgreen",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blockpolusgreen"
+    },
+    {
+      "name": "Wallpolusgreentoblanck",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusgreentoblanck"
+    },
+    {
+      "name": "Wallpolusgreentoblanck1",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusgreentoblanck_1"
+    },
+    {
+      "name": "Wallpolusgreentoblanck2",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusgreentoblanck_2"
+    },
+    {
+      "name": "Wallpolusbluetoblank",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusbluetoblank"
+    },
+    {
+      "name": "Wallpolusbluetoblank1",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusbluetoblank_1"
+    },
+    {
+      "name": "Wallpolusbluetoblank2",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusbluetoblank_2"
+    },
+    {
+      "name": "Wallpolusredtoblank",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusredtoblank"
+    },
+    {
+      "name": "Wallpolusredtoblank1",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusredtoblank_1"
+    },
+    {
+      "name": "Wallpolusredtoblank2",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusredtoblank_2"
+    },
+    {
+      "name": "Blocksmirahq",
+      "type": "tab",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blocksmirahq"
+    },
+    {
+      "name": "GroundmiraHQyellow1",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groundmira_h_qyellow_1"
+    },
+    {
+      "name": "GroundmiraHQyellow2",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groundmira_h_qyellow_2"
+    },
+    {
+      "name": "GroundmiraHQyellow3",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groundmira_h_qyellow_3"
+    },
+    {
+      "name": "GroundmiraHQyellow4",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groundmira_h_qyellow_4"
+    },
+    {
+      "name": "GroundmiraHQred4",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groundmira_h_qred_4"
+    },
+    {
+      "name": "GroundmiraHQred3",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groundmira_h_qred_3"
+    },
+    {
+      "name": "GroundmiraHQred2",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groundmira_h_qred_2"
+    },
+    {
+      "name": "GroundmiraHQred1",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groundmira_h_qred_1"
+    },
+    {
+      "name": "GroundmiraHQblue1",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groundmira_h_qblue_1"
+    },
+    {
+      "name": "GroundmiraHQblue2",
+      "type": "block",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groundmira_h_qblue_2"
+    },
+    {
+      "name": "GroundmiraHQblue3",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groundmira_h_qblue_3"
+    },
+    {
+      "name": "GroundmiraHQblue4",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groundmira_h_qblue_4"
+    },
+    {
+      "name": "GroundmiraHQdarkblue4",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groundmira_h_qdarkblue_4"
+    },
+    {
+      "name": "GroundmiraHQdarkblue3",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groundmira_h_qdarkblue_3"
+    },
+    {
+      "name": "GroundmiraHQdarkblue2",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groundmira_h_qdarkblue_2"
+    },
+    {
+      "name": "GroundmiraHQdarkblue1",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groundmira_h_qdarkblue_1"
+    },
+    {
+      "name": "WallmiraHQbottom1",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallmira_h_qbottom_1"
+    },
+    {
+      "name": "WallmiraHQtop1",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallmira_h_qtop_1"
+    },
+    {
+      "name": "WallmiraHQbottom2",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallmira_h_qbottom_2"
+    },
+    {
+      "name": "WallmiraHQtop2",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallmira_h_qtop_2"
+    },
+    {
+      "name": "GroundmiraHQ5",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groundmira_hq_5"
+    },
+    {
+      "name": "GroundmiraHQ5to6",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groundmira_hq_5to_6"
+    },
+    {
+      "name": "GroundmiraHQ6",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groundmira_hq_6"
+    },
+    {
+      "name": "GroundmiraHQ5to62",
+      "type": "block",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groundmira_hq_5to_62"
+    },
+    {
+      "name": "GroundmiraHQ5to63",
+      "type": "block",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groundmira_hq_5to_63"
+    },
+    {
+      "name": "GroundmiraHQ5to64",
+      "type": "block",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groundmira_hq_5to_64"
+    },
+    {
+      "name": "Solpolus41",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "solpolus_41"
+    },
+    {
+      "name": "Wallpolusoutsidegreen5",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusoutsidegreen_5"
+    },
+    {
+      "name": "Wallpolusoutsidegreen4",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusoutsidegreen_4"
+    },
+    {
+      "name": "Wallpolusoutsidegreen6",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusoutsidegreen_6"
+    },
+    {
+      "name": "Wallpolusoutsidegreen7",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusoutsidegreen_7"
+    },
+    {
+      "name": "Wallpolusgreen8",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusgreen_8"
+    },
+    {
+      "name": "Wallpolusoutsideblank2",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusoutsideblank_2"
+    },
+    {
+      "name": "Wallpolusoutsideblank3",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusoutsideblank_3"
+    },
+    {
+      "name": "Wallpolusblue4",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusblue_4"
+    },
+    {
+      "name": "Wallpolusblue5",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusblue_5"
+    },
+    {
+      "name": "Wallpolusblue6",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusblue_6"
+    },
+    {
+      "name": "Wallpolusblue7",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusblue_7"
+    },
+    {
+      "name": "Wallpolusblue8",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusblue_8"
+    },
+    {
+      "name": "Wallpolusotusidered4",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusotusidered_4"
+    },
+    {
+      "name": "Wallpolusotusidered5",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusotusidered_5"
+    },
+    {
+      "name": "Wallpolusotusidered6",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusotusidered_6"
+    },
+    {
+      "name": "Wallpolusotusidered7",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusotusidered_7"
+    },
+    {
+      "name": "Wallpolusotusidered8",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wallpolusotusidered_8"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "electric",
+      "files": [
+        "electrique"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "ventopen",
+      "files": [
+        "vent_open"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "ventclose",
+      "files": [
+        "ventclose"
+      ],
+      "category": "music",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "tile.groundmira_h_qblue_3.name": "Ground miraHQ blue 3",
+      "tile.wallpolusoutside1.name": "Wall polus outside red 1",
+      "tile.wallmira_h_qbottom_1.name": "Wall miraHQ bottom 1",
+      "tile.solpolus4.name": "Ground polus 4 vertical",
+      "tile.wallpolus2.name": "Wall polus 2",
+      "tile.blockpolusbas.name": "Block polus 1",
+      "tile.wallpolusblue_5.name": "Wall polus outside blue 5",
+      "tile.groundmira_h_qred_2.name": "Ground miraHQ red 2",
+      "tile.wallpolusoutsidegreen_7.name": "Wall polus outside green 7",
+      "tile.groundmira_h_qyellow_2.name": "Ground miraHQ yellow 2",
+      "subtitles.ventopen": "",
+      "tile.groundmira_h_qblue_2.name": "Ground miraHQ blue 2",
+      "subtitles.ventclose": "",
+      "tile.wallpolusoutsidegreen3.name": "Wall polus outside green 3",
+      "tile.wallpolusgreen_8.name": "Wall polus outside green 7",
+      "itemGroup.tabblockspolus": "Blocks polus",
+      "tile.wallpolusblue_6.name": "Wall polus outside blue 6",
+      "tile.wallpolusoutsideblank_3.name": "Wall polus outside 3",
+      "itemGroup.tabblocksskeld": "Blocks skeld",
+      "tile.blocskeld_1.name": "Block skeld 1",
+      "tile.carrelagepoluslabobleue.name": "tiling polus laboratory blue",
+      "tile.wallpolusbas3.name": "Wall polus bottom 3",
+      "tile.wallpolusoutsideblank_2.name": "Wall polus outside 2",
+      "tile.groundmira_h_qred_3.name": "Ground miraHQ red 3",
+      "tile.wallpolusotusidered_5.name": "Wall polus outside red 5",
+      "tile.test.name": "TEST - electrical sound (only with redstone)",
+      "tile.wallmira_h_qtop_2.name": "Wall miraHQ top 2",
+      "tile.wallpolusotusidered_8.name": "Wall polus outside red 8",
+      "tile.groundmira_h_qyellow_3.name": "Ground miraHQ yellow 3",
+      "itemGroup.tabamongusminecraftblockstest": "AMONG US minecraft Blocks NOT FINISH",
+      "tile.groundpolus.name": "Ground polus 1",
+      "itemGroup.tabamongusmusic": "Among us sound",
+      "tile.wallpolusoutsidegreen2.name": "Wall polus outside green 2",
+      "tile.blockskeld_2.name": "Block skeld 2",
+      "tile.wallpolusoutside3.name": "Wall polus outside red 3",
+      "tile.solquatrecarraux.name": "Four-tile flooring",
+      "tile.wallpolusoutsidegreen_6.name": "Wall polus outside green 6",
+      "tile.groundmira_h_qdarkblue_2.name": "Ground miraHQ darkblue 2",
+      "tile.groundmira_hq_5to_62.name": "Ground miraHQ 5to6 2",
+      "tile.wallpolusblue_8.name": "Wall polus outside blue 8",
+      "tile.wallpolusblue_2.name": "Wall polus outside blue 2",
+      "tile.wallpolusbleu_3.name": "Wall polus outside blue 3",
+      "tile.wallpolusotusidered_6.name": "Wall polus outside red 6",
+      "tile.groundmira_h_qdarkblue_3.name": "Ground miraHQ darkblue 3",
+      "tile.carpetpolus.name": "Carpet polus",
+      "tile.solpolus_41.name": "Ground polus 4 Horizontal ",
+      "tile.groundmira_hq_5to_63.name": "Ground miraHQ 5to6 3",
+      "tile.carpetpolus1.name": "Carpet polus 1",
+      "tile.murbriquelabo.name": "Brick wall of the labo ",
+      "tile.wallpolusoutsidegreen_4.name": "Wall polus outside green 4",
+      "tile.groundmira_h_qblue_1.name": "Ground miraHQ blue 1",
+      "tile.wallpolusadmin.name": "Wall polus 2",
+      "tile.wallmira_h_qtop_1.name": "Wall miraHQ top 1",
+      "tile.wallpolusmillieu3.name": "Wall polus blank 3",
+      "tile.groundmira_hq_5.name": "Ground miraHQ 5",
+      "tile.groundmira_hq_5to_64.name": "Ground miraHQ 5to6 4",
+      "tile.blockpolushaut.name": "Block polus 2",
+      "tile.wallpolusadminhaut.name": "Wall polus top 2",
+      "tile.carrelagepoluslaboblanc.name": "tiling polus laboratory white",
+      "subtitles.electric": "",
+      "itemGroup.tabblocksmirahq": "Blocks miraHQ",
+      "tile.groundmira_hq_5to_6.name": "Ground miraHQ 5to6 1",
+      "tile.groundmira_hq_6.name": "Ground miraHQ 6",
+      "tile.groundmira_h_qdarkblue_4.name": "Ground miraHQ darkblue 4",
+      "tile.wallpolusoutside2.name": "Wall polus outside red 2",
+      "tile.groundmira_h_qdarkblue_1.name": "Ground miraHQ darkblue 1",
+      "tile.wallmira_h_qbottom_2.name": "Wall miraHQ bottom 2",
+      "tile.groundmira_h_qblue_4.name": "Ground miraHQ blue 4",
+      "tile.wallpolusoutsidegreen1.name": "Wall polus outside green 1",
+      "tile.wallpolusoutsidegreen_5.name": "Wall polus outside green 5",
+      "tile.wallpolusadminmillieu.name": "Wall polus blank 2",
+      "tile.wallpolusotusidered_4.name": "Wall polus outside red 4",
+      "tile.wallpolusblue_7.name": "Wall polus outside blue 7",
+      "tile.blockpolusbas1.name": "Block polus 3",
+      "tile.groundmira_h_qyellow_1.name": "Ground miraHQ yellow 1",
+      "tile.groundmira_h_qred_4.name": "Ground miraHQ red 4",
+      "tile.wallpolusblue_4.name": "Wall polus outside blue 4",
+      "tile.vent.name": "Vent",
+      "tile.blocpolusdehorsmilieu.name": "blocks polus blank",
+      "tile.groundmira_h_qyellow_4.name": "Ground miraHQ yellow 4",
+      "tile.groundmira_h_qred_1.name": "Ground miraHQ red 1",
+      "tile.wallpolusblue_1.name": "Wall polus outside blue 1",
+      "tile.wallpolusotusidered_7.name": "Wall polus outside red 7"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "amongusminecraftblock",
+    "modName": "AMONG US minecraft BLOCK",
+    "version": "0.5.0",
+    "description": "The blocks of Among Us in Minecraft!",
+    "author": "soeertz (soeiz)",
+    "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/among-us-blocks/files",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "mong-s-oax",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "Create be using MCreator! - https://mcreator.net/about",
+    "modElementsPackage": "amongusminecraftblock",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000546519
+}

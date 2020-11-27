@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "amongusminecraftblock:blocks/blanc",
+    "up": "amongusminecraftblock:blocks/blanc",
+    "north": "amongusminecraftblock:blocks/murbriquelabo",
+    "east": "amongusminecraftblock:blocks/murbriquelabo",
+    "south": "amongusminecraftblock:blocks/murbriquelabo",
+    "west": "amongusminecraftblock:blocks/murbriquelabo",
+    "particle": "amongusminecraftblock:blocks/blanc"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/trapdoor_open",
+  "textures": {
+    "texture": "amongusminecraftblock:blocks/ent",
+    "particle": "amongusminecraftblock:blocks/ent"
+  }
+}

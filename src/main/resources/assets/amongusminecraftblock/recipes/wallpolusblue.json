@@ -1,0 +1,51 @@
+{
+  "group": "amongusminecraftblock",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "1": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "2": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "3": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "4": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "5": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "6": {
+      "item": "minecraft:concrete",
+      "data": 11
+    },
+    "7": {
+      "item": "minecraft:concrete",
+      "data": 11
+    },
+    "8": {
+      "item": "minecraft:concrete",
+      "data": 11
+    }
+  },
+  "result": {
+    "item": "amongusminecraftblock:wallpolusblue_1",
+    "count": 1
+  }
+}

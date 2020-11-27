@@ -1,0 +1,30 @@
+{
+  "group": "amongusminecraftblock",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:concrete",
+      "data": 4
+    },
+    "1": {
+      "item": "minecraft:concrete",
+      "data": 4
+    },
+    "2": {
+      "item": "minecraft:concrete",
+      "data": 4
+    },
+    "3": {
+      "item": "minecraft:concrete",
+      "data": 4
+    }
+  },
+  "result": {
+    "item": "amongusminecraftblock:blockpolushaut",
+    "count": 1
+  }
+}

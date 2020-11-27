@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "amongusminecraftblock:blocks/sol4carreaux",
+    "up": "amongusminecraftblock:blocks/sol4carreaux",
+    "north": "amongusminecraftblock:blocks/sol4carreaux",
+    "east": "amongusminecraftblock:blocks/sol4carreaux",
+    "south": "amongusminecraftblock:blocks/sol4carreaux",
+    "west": "amongusminecraftblock:blocks/sol4carreaux",
+    "particle": "amongusminecraftblock:blocks/sol4carreaux"
+  }
+}

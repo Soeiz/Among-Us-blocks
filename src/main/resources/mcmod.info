@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "amongusminecraftblock",
+    "name": "AMONG US minecraft BLOCK",
+    "description": "The blocks of Among Us in Minecraft!",
+    "version": "0.5.0",
+    "credits": "Create be using MCreator! - https://mcreator.net/about",
+    "logoFile": "assets/amongusminecraftblock/textures/mong-s-oax.png",
+    "mcversion": "1.12.2",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/among-us-blocks/files",
+    "updateUrl": "",
+    "authorList": [
+      "soeertz (soeiz)"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

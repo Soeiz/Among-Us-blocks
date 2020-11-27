@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "amongusminecraftblock:blocks/solpolus_4_1",
+    "up": "amongusminecraftblock:blocks/solpolus_4_1",
+    "north": "amongusminecraftblock:blocks/solpolus_4_1",
+    "east": "amongusminecraftblock:blocks/solpolus_4_1",
+    "south": "amongusminecraftblock:blocks/solpolus_4_1",
+    "west": "amongusminecraftblock:blocks/solpolus_4_1",
+    "particle": "amongusminecraftblock:blocks/solpolus_4_1"
+  }
+}

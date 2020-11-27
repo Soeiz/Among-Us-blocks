@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "amongusminecraftblock:blocks/wallmirahqblank1",
+    "up": "amongusminecraftblock:blocks/wallmirahqblank1",
+    "north": "amongusminecraftblock:blocks/wallmirahq1",
+    "east": "amongusminecraftblock:blocks/wallmirahq1",
+    "south": "amongusminecraftblock:blocks/wallmirahq1",
+    "west": "amongusminecraftblock:blocks/wallmirahq1",
+    "particle": "amongusminecraftblock:blocks/wallmirahqblank1"
+  }
+}

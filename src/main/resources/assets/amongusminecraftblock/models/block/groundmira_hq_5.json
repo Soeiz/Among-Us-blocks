@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "amongusminecraftblock:blocks/groundmirahq5",
+    "up": "amongusminecraftblock:blocks/groundmirahq5",
+    "north": "amongusminecraftblock:blocks/groundmirahq5",
+    "east": "amongusminecraftblock:blocks/groundmirahq5",
+    "south": "amongusminecraftblock:blocks/groundmirahq5",
+    "west": "amongusminecraftblock:blocks/groundmirahq5",
+    "particle": "amongusminecraftblock:blocks/groundmirahq5"
+  }
+}

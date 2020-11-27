@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "amongusminecraftblock:blocks/wall_polus1",
+    "up": "amongusminecraftblock:blocks/wall_polus1",
+    "north": "amongusminecraftblock:blocks/wall_polus1",
+    "east": "amongusminecraftblock:blocks/wall_polus1",
+    "south": "amongusminecraftblock:blocks/wall_polus1",
+    "west": "amongusminecraftblock:blocks/wall_polus1",
+    "particle": "amongusminecraftblock:blocks/wall_polus1"
+  }
+}

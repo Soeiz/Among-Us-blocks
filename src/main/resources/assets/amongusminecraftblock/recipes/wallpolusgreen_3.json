@@ -1,0 +1,19 @@
+{
+  "group": "amongusminecraftblock",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "amongusminecraftblock:wallpolusoutsidegreen3"
+    },
+    "1": {
+      "item": "minecraft:wooden_pickaxe"
+    }
+  },
+  "result": {
+    "item": "amongusminecraftblock:wallpolusoutsidegreen1",
+    "count": 1
+  }
+}

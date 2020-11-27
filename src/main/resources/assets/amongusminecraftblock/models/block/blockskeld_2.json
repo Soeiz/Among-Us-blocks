@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "amongusminecraftblock:blocks/blockskeld2",
+    "up": "amongusminecraftblock:blocks/blockskeld2",
+    "north": "amongusminecraftblock:blocks/blockskeld2",
+    "east": "amongusminecraftblock:blocks/blockskeld2",
+    "south": "amongusminecraftblock:blocks/blockskeld2",
+    "west": "amongusminecraftblock:blocks/blockskeld2",
+    "particle": "amongusminecraftblock:blocks/blockskeld2"
+  }
+}

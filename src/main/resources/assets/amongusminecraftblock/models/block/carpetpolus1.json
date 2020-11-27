@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "amongusminecraftblock:blocks/carpet_blue1",
+    "up": "amongusminecraftblock:blocks/carpet_blue1",
+    "north": "amongusminecraftblock:blocks/carpet_blue1",
+    "east": "amongusminecraftblock:blocks/carpet_blue1",
+    "south": "amongusminecraftblock:blocks/carpet_blue1",
+    "west": "amongusminecraftblock:blocks/carpet_blue1",
+    "particle": "amongusminecraftblock:blocks/carpet_blue1"
+  }
+}
